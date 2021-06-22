@@ -42,6 +42,4 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
 ⭐️ From [coreymunn3](https://github.com/coreymunn3)

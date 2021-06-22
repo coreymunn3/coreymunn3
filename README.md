@@ -30,6 +30,8 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat-square&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+  ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat-square&logo=jupyter&logoColor=orange)
+  ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat-square&logo=anaconda&logoColor=lime)
 
 <br/>
 

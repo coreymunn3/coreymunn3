@@ -1,4 +1,8 @@
-<h2> Hey there! I'm Corey.</h2>
+<h1 align="center"> Hey there! 👋 I'm Corey.</h1>
+<h2 align="center">
+<a href="https://www.linkedin.com/in/michael-munn-73228958/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Corey%20Munn-blueviolet?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:coreymunn3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-coreymunn3@gmail.com-blueviolet?style=for-the-badge&logo=gmail"></a>
+</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -37,10 +41,5 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/michael-munn-73228958/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Corey%20Munn-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:coreymunn3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-coreymunn3@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
 
 ⭐️ From [coreymunn3](https://github.com/coreymunn3)

@@ -7,7 +7,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Learning about React, NodeJS, NextJS
-- 💼 &nbsp; Working as a Data Visualization and Analytics Consultant for LMI
+- 💼 &nbsp; Working as a Tableau Data Visualization and Analytics Consultant for LMI. 
 - 🎓 &nbsp; Graduated in 2014 with Business Accountng Degree from Univeristy of Miami
 - 🌱 &nbsp; Learning more about AWS Serverless & Considering working towards Solutions Architect Certification
 - 🧗🏻‍♂️ &nbsp; Rock Climbing in my free time

@@ -6,10 +6,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Learning about React, NodeJS, NextJS
-- 💼 &nbsp; Working as a Tableau Data Visualization and Analytics Consultant for LMI. 
+- 🤔 &nbsp; React, NodeJS, NextJS, Mongo - MERN stack specialist. 
+- 💼 &nbsp; Tableau Data Visualization and Analytics Consultant ==> Looking to make the jump to React Development. 
 - 🎓 &nbsp; Graduated in 2014 with Business Accountng Degree from Univeristy of Miami
-- 🌱 &nbsp; Learning more about AWS Serverless & working towards Solutions Architect Certification
+- 🌱 &nbsp; Learning about GraphQL, Typescript, ORMs
 - 🧗🏻‍♂️ &nbsp; Rock Climbing in my free time
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -20,10 +20,12 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js)
+  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python) - a little!
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
@@ -31,7 +33,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
   ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat-square&logo=jupyter&logoColor=orange)
-  ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat-square&logo=anaconda&logoColor=lime)
 
 <br/>
 

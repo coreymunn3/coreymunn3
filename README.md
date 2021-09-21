@@ -7,7 +7,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; React, NodeJS, NextJS, Mongo - MERN stack specialist. 
-- 💼 &nbsp; Tableau Data Visualization and Analytics Consultant ==> Looking to make the jump to React Development. 
+- 💼 &nbsp; Career Transition from Data Visualization Consulting to React WebApp Development. 
 - 🎓 &nbsp; Graduated in 2014 with Business Accountng Degree from Univeristy of Miami
 - 🌱 &nbsp; Learning about GraphQL, Typescript, ORMs
 - 🧗🏻‍♂️ &nbsp; Rock Climbing in my free time

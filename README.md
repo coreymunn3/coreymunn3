@@ -21,11 +21,11 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js)
-  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python) - a little!
+  ![Typescript](https://img.shields.io/badge/TypeScript-333333?style=flat-square&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat-square&logo=postgresql&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)

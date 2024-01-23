@@ -1,5 +1,4 @@
 <h1 align="center"> Hey there! 👋 I'm Corey.</h1>
-<h3 align="center">React Developer @ Secunetics</h3>
 <h2 align="center">
 <a href="https://www.linkedin.com/in/michael-munn-73228958/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Corey%20Munn-blueviolet?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:coreymunn3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-coreymunn3@gmail.com-blueviolet?style=for-the-badge&logo=gmail"></a>
@@ -7,10 +6,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; React, NodeJS, NextJS, Mongo - MERN stack specialist. 
 - 💼 &nbsp; Frontend Developer 
 - 🎓 &nbsp; Graduated in 2014 with Business Accountng Degree from Univeristy of Miami
-- 🌱 &nbsp; Learning about GraphQL, Typescript, Python, SQL
 - 🧗🏻‍♂️ &nbsp; Rock Climbing in my free time
 
 <h3> 🛠 &nbsp;Tech Stack</h3>

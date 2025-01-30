@@ -6,7 +6,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Frontend Developer 
+- 💼 &nbsp; Full Stack Developer 
 - 🎓 &nbsp; Graduated in 2014 with Business Accountng Degree from Univeristy of Miami
 - 🧗🏻‍♂️ &nbsp; Rock Climbing in my free time
 

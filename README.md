@@ -32,12 +32,4 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
   ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat-square&logo=jupyter&logoColor=orange)
 
-<br/>
-
-<a href="https://github.com/coreymunn3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coreymunn3&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
 ⭐️ From [coreymunn3](https://github.com/coreymunn3)
